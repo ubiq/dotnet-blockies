@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.Linq;
 
-namespace ConsoleApp1
+namespace NetBlockies
 {
     public class Blockies : IDisposable
     {
